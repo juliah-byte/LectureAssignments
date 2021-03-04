@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"sum","l":"isSum"},{"p":"Loops","l":"Loops"},{"p":"OddNumbers","l":"Odd"},{"p":"OddNumbers","l":"OddMain"},{"p":"Palindrome","l":"palindrome"},{"p":"Palindrome","l":"PalindromeMain"},{"p":"sum","l":"SumMain"}]
